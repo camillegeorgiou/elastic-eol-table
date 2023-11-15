@@ -1,0 +1,97 @@
+[
+  [
+    "Product",
+    "Release Series",
+    "End of Maintenance Term"
+  ],
+  [
+    "Elasticsearch",
+    "8.x",
+    "The later of 2024-08-10 or 6 months after the release date of 9.0 (TBD)"
+  ],
+  [
+    "Kibana",
+    "8.x",
+    "The later of 2024-08-10 or 6 months after the release date of 9.0 (TBD)"
+  ],
+  [
+    "Logstash",
+    "8.x",
+    "The later of 2024-08-10 or 6 months after the release date of 9.0 (TBD)"
+  ],
+  [
+    "Beats",
+    "8.x",
+    "The later of 2024-08-10 or 6 months after the release date of 9.0 (TBD)"
+  ],
+  [
+    "Elastic Cloud Enterprise",
+    "3.x",
+    "The later of 2024-08-10 or 6 months after the release date of 4.0 (TBD)"
+  ],
+  [
+    "Elastic Cloud on Kubernetes",
+    "2.x",
+    "The later of 2024-08-10 or 6 months after the release date of 3.0 (TBD)"
+  ],
+  [
+    "Elasticsearch-Hadoop",
+    "8.x",
+    "The later of 2024-08-10 or 6 months after the release date of 9.0 (TBD)"
+  ],
+  [
+    "APM server",
+    "8.x",
+    "The later of 2024-08-10 or 6 months after the release date of 9.0 (TBD)"
+  ],
+  [
+    "APM PHP Agent",
+    "1.x",
+    "The later of 2023-09-23 or 6 months after the release date of 2.0 (TBD)"
+  ],
+  [
+    "APM Go Agent",
+    "2.x",
+    "The later of 2024-09-17 or 6 months after the release of 3.0 (TBD)"
+  ],
+  [
+    "APM Java Agent",
+    "1.x",
+    "6 months after the release date of 2.0 (TBD)"
+  ],
+  [
+    "APM .NET Agent",
+    "1.x",
+    "6 months after the release date of 2.0 (TBD)"
+  ],
+  [
+    "APM Node.js Agent",
+    "4.x",
+    "6 months after the release date of 5.0 (TBD)"
+  ],
+  [
+    "APM Python Agent",
+    "6.x",
+    "The later of 2023-08-01 or 6 months after the release of 7.0 (TBD)"
+  ],
+  [
+    "APM Ruby Agent",
+    "4.x",
+    "The later of 2023-10-27 or 6 months after the release of 5.0 (TBD)"
+  ],
+  [
+    "APM JavaScript RUM Agent",
+    "5.x",
+    "6 months after the release of 6.0 (TBD)"
+  ],
+  [
+    "Elastic APM AWS Lambda Extension",
+    "1.x",
+    "The later of 2024-10-26 or 6 months after the release date of 2.0 (TBD)"
+  ],
+  [
+    "Elastic Enterprise Search",
+    "8.x",
+    "The later of 2024-08-10 or 6 months after the release date of 9.0 (TBD)"
+  ]
+]
